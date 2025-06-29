@@ -50,6 +50,12 @@ body {
 .bg-forest-green {
     background-color: #228c22;
 }
+.bg-position-center {
+    background-position: center;
+}
+.bg-repeat-none {
+    background-repeat: no-repeat;
+}
 .bg-scarlet {
     background-color: #ff2800;
 }
